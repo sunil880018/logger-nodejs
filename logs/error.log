@@ -1,0 +1,4 @@
+{"level":"ERROR", "message":"Failed to connect to DB", "timestamp":"2023-11-18T10:29:10", "resourceId":"server-1234", "traceId":"abc-xyz-123", "spanId":"span-456","commit":"5e5342f"}
+{"level":"ERROR", "message":"Failed to connect to DB", "timestamp":"2023-11-18T10:29:12", "resourceId":"server-1234", "traceId":"abc-xyz-123", "spanId":"span-456","commit":"5e5342f"}
+{"level":"ERROR", "message":"Failed to connect to DB", "timestamp":"2023-11-18T10:46:16", "resourceId":"server-1234", "traceId":"abc-xyz-123", "spanId":"span-456","commit":"5e5342f"}
+{"level":"ERROR", "message":"Failed to connect to DB", "timestamp":"2023-11-18T10:46:18", "resourceId":"server-1234", "traceId":"abc-xyz-123", "spanId":"span-456","commit":"5e5342f"}
